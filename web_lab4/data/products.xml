@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+    <id>1</id>
+    <name>Игровой компьютер</name>
+    <price>10000000</price>
+    <description>Самый мощный пк на свете</description>
+    </product>
+
+    <product>
+    <id>2</id>
+    <name>Игровая приставка</name>
+    <price>400000</price>
+    <description>Очень классная приставка</description>
+    </product>
+
+    <product>
+    <id>3</id>
+    <name>Телефон</name>
+    <price>200000</price>
+    <description>У него самая хорошая камера</description>
+    </product>
+
+    <product>
+    <id>4</id>
+    <name>Name of tovar</name>
+    <price>23232</price>
+    <description>very good tovar</description>
+    </product>
+</products>
