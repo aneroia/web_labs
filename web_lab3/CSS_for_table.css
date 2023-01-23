@@ -1,0 +1,69 @@
+body{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-image: url("blueblue.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: space-between;
+}
+.buttons{
+    width: 100%;
+    display: flex;
+    flex-direction: column ;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+input{
+    height: 20px;
+}
+.create_table{
+    width: 100%;
+    background: #f6dbeb;
+    padding-right: 40%;
+    border: none;
+}
+.add_row{
+    width: 100%;
+    background: #f6c6e3;
+    padding-right: 40%;
+    text-align: center;
+    border: none;
+}
+form{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+
+}
+.delete_row{
+    width: 100%;
+    background: #f6b7cc;
+    text-align: center;
+    border: none;
+}
+.write_number{
+    background: #f698b1;
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    border: none;
+}
+.table{
+    width: 100%;
+    margin-top: 20px;
+    background-color: #f698b1;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+td, th {
+    border: solid 1px white ;
+    text-align: center;
+}
